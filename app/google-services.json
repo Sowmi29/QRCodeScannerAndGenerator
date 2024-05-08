@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "806590561265",
+    "project_id": "qr-code-scanner-and-gene-e0ba3",
+    "storage_bucket": "qr-code-scanner-and-gene-e0ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806590561265:android:cd19018b1e64bd8088e250",
+        "android_client_info": {
+          "package_name": "com.example.qrcodescannerandgenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1endCkQuEJCbscTMGTViHVlVMnZXzOmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-8068557099506848~3339942844"
+    }
+  ],
+  "configuration_version": "1"
+}
